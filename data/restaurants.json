@@ -1,0 +1,12 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Bagdad Café"
+    },
+    {
+      "id": "2",
+      "name": "Holy Greens"
+    }
+  ]
+}
